@@ -1,12 +1,2 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ Selamat datang di Repository Praktikum Teknologi Komputer Universitas Kristen Duta Wacana. Repository ini dirancang khusus untuk anggota kami yang berdedikasi dan sedang mengikuti mata kuliah praktikum Rekayasa Perangkat Lunak. Di sini, Anda akan menemukan beragam sumber daya, termasuk tugas praktikum, bahan belajar, dan proyek kolaboratif yang bertujuan untuk meningkatkan pemahaman Anda tentang konsep-konsep pemrograman berorientasi obyek dan proses rekayasanya. Kami berkomitmen untuk memberikan platform yang mendorong pembelajaran interaktif dan kerja sama. Mari kita mulai perjalanan pendidikan ini bersama-sama!
